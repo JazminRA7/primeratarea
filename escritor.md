@@ -6,7 +6,7 @@ class main{
 	System.out.println("la tercer practica");
 	System.out.println("la quinta prueba")
 	System.out.println("la sexta prueba");
-	
+	System.out.println("la novena prueba")
 	}
 	
 }
