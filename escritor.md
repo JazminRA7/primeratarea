@@ -1,5 +1,6 @@
 class main{
 	public static void(string[]args){
+<<<<<<< HEAD
 
 	System.out.println("sabemos escribir");
 	System.out.println("practicando path");
@@ -12,10 +13,9 @@ class main{
 	System.out.println("la quinta prueba")
 	System.out.println("la sexta prueba");
 	System.out.println("la novena prueba")
->>>>>>> camini2
-	}
-	public ublic static void(string[]args){
 
-	System.out.println("anets de preparado de examen");
+	System.out.println("sabemos escribir")
+	System.out.println("primera camino pal")
+>>>>>>> Caminopal
 	}
 }
